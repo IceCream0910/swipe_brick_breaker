@@ -1,6 +1,6 @@
 const canvas= document.getElementById("canvas");
 const ctx= canvas.getContext('2d');
-let FPS= 60;
+let FPS= 100;
 let turn= 1;
 let W= canvas.width;
 let H= canvas.height;
